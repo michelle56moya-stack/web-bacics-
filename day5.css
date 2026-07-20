@@ -1,0 +1,23 @@
+h1{
+    background-color: thistle;
+    border: 2px solid tomato;
+    color: azure;
+justify-content: center;
+}
+body{
+    background-color: black;
+    display: flex;
+}
+#innerbox{
+    
+justify-content: center;
+display: flex;
+background-color: blue;
+margin-top: 0px;
+padding-top: 0px;
+padding-bottom: 20px;
+}
+#outerbox{
+    display: flex;
+    justify-content: center;
+}
